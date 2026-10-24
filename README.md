@@ -81,18 +81,3 @@ flutter pub get
 
 ```bash
 flutter run
-```
-
-## 👨‍💻 Created By
-
-### Yaqoob Developer
-
-**Flutter Developer & YouTuber**
-
-▶️ **YouTube:**  
-https://youtube.com/@yaqoob_developer
-
-🌐 **Website:**  
-https://yaqoobdeveloper.com
-
-⭐ If you find this project useful, consider giving the repository a **star**!
